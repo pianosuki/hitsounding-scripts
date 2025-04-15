@@ -1,6 +1,9 @@
-# Osu! Hitsounding Scripts
+# osu! Hitsounding Scripts
 
-A collection of scripts to streamline hitsound creation for Osu! beatmaps.
+### A collection of scripts to streamline the traditional process of hitsounding osu! beatmaps.
+Especially useful for keysounding if you wish to organize samplesets yourself like i do.
+These can make life far easier by offloading the time and effort it takes to copy redundant samplesets over and over and over.
+The ReaScript one was what made it possible to render realistic dynamic performance instruments into trimmable & keysoundable samples like the guitar solo I did in [The Empress](https://osu.ppy.sh/beatmapsets/2355444).
 
 ## Scripts Overview
 
